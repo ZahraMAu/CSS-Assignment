@@ -1,0 +1,22 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+    color: red;
+    
+}
+body{
+    background-color:skyblue;
+}
+.paragraph{
+   
+   color: green;
+   text-align: center;
+   
+   font: 18px !important;
+
+}
+#intro{
+    font-weight: bold;
+    text-align: center;
+}
